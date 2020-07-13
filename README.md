@@ -4,6 +4,6 @@
     <img src="https://sinchang.vercel.app//now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sinchang.sinchang)
+<img src="https://views.show/svg?key=sinchang_github_profiles&unique=1" />
 
 > Inspired by [natemoo-re](https://github.com/natemoo-re/natemoo-re)
