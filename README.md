@@ -1,7 +1,7 @@
 **Now Playing**
 
-<a href="https://spotify.sinchang.me/now-playing?open">
-    <img src="https://spotify.sinchang.me/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://sinchang.vercel.app//now-playing?open">
+    <img src="https://sinchang.vercel.app//now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sinchang.sinchang)
