@@ -2,8 +2,6 @@
 
 Hey, I'm a Frontend developer.
 
-Right now I'm working on [iHerb](https://iherb.com).
-
 I was born and raised in Cangnan, Wenzhou. 
 
 Now living in Shanghai.
