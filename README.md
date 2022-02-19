@@ -6,6 +6,10 @@ I was born and raised in Cangnan, Wenzhou.
 
 Now living in Shanghai.
 
+## Donate ❤️
+ 
+If you like my open-source project, please consider donating to me via [PayPal](http://paypal.me/sinchangwen).
+
 ---
 
 **Now Playing** on Spotify
