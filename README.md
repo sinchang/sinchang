@@ -10,6 +10,14 @@ Now living in Shanghai.
  
 If you like my open-source project, please consider donating to me via [PayPal](http://paypal.me/sinchangwen).
 
+## Web Apps
+
+- https://vstar.sinchang.me
+- https://traceurl.sinchang.me
+- https://whatweekisit.sinchang.me
+- https://webstack.pro
+- https://pr-welcome-badge.vercel.app
+
 ---
 
 **Now Playing** on Spotify
