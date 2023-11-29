@@ -23,5 +23,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Now Playing** on Spotify
 
 <a href="https://now-playing-profile-rho.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-rho.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    <img src="https://now-playing-profile-rho.vercel.app/now-playing" width="500" alt="Now Playing">
 </a>
