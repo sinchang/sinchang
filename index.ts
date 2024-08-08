@@ -15,7 +15,7 @@ async function main() {
   await ReadmeBox.updateSection(content, {
     owner: 'sinchang',
     repo: 'sinchang',
-    token: process.env.GITHUB_TOKEN as string,
+    token: process.env.GH_TOKEN as string,
     // branch is assumed to be 'master' by default, you can also specify `branch: 'main'`
     branch: 'master',
     section: 'checkIn-section',
