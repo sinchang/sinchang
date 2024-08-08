@@ -37,6 +37,6 @@ If you like my open-source project, please consider donating to me via [PayPal](
 <!--START_SECTION:checkIn-section-->
 
     Pizza Hut (必胜客) 
- 	*Shanghai, China*
+ Shanghai, China
   
 <!--END_SECTION:checkIn-section-->
