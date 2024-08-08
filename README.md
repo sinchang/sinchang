@@ -35,6 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Pizza Hut (必胜客)](https://www.google.com/maps/place/31.210258762763107+121.3662494059069)
-<span style="font-size:0.5em;">Shanghai, China</span>
+[Pizza Hut (必胜客)](https://www.google.com/maps/place/31.210258762763107+121.3662494059069)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
