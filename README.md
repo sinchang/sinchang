@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Tims Hortons](https://www.google.com/maps/place/31.228255+121.354532)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[undefined](https://www.google.com/maps/place/undefined+undefined)<br><span style="font-size:0.5em;">undefined</span>
 <!--END_SECTION:checkIn-section-->
