@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Boulangerie Francaise (都恩客)](https://www.google.com/maps/place/31.200087780262724+121.39844884780723)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[pardus瑞豹运动自行车(上海徐汇桂林路专卖店)](https://www.google.com/maps/place/31.18111+121.413916)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
