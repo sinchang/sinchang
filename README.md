@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[金泽咖喱](https://www.google.com/maps/place/31.212175665449536+121.40234827995302)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[China Telecom (中国电信)](https://www.google.com/maps/place/31.218388507972524+121.36923909187317)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
