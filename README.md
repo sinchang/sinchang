@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Korea Visa Application Center (Shanghai)](https://www.google.com/maps/place/31.207561954088067+121.40207925521807)<br><span style="font-size:0.5em;">상하이 시, China</span>
+[太浦河炸坝遗址纪念园](https://www.google.com/maps/place/31.021214+120.987485)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
