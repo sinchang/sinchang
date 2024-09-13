@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[状元甲](https://www.google.com/maps/place/31.241569+121.35951)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[KFC (肯德基)](https://www.google.com/maps/place/31.226372+121.355222)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
