@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Jinxi Ancient Town (锦溪古镇)](https://www.google.com/maps/place/31.175117447004258+120.89761520893623)<br><span style="font-size:0.5em;">Jiangsu Sheng, China</span>
+[新泾篮球场](https://www.google.com/maps/place/31.216272+121.355284)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
