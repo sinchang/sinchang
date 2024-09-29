@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Gate T01](https://www.google.com/maps/place/31.197784+121.344738)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Jongno 3(sam)-ga Stn. (종로3가역)](https://www.google.com/maps/place/37.57257645619611+126.99175380862569)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
