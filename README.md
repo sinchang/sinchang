@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Gwangjang Market (광장시장)](https://www.google.com/maps/place/37.57031321085261+127.00082101147119)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[DDP Design Store](https://www.google.com/maps/place/37.566393+127.008387)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
