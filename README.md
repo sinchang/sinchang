@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Namsan Mountain Apex (남산 팔각정)](https://www.google.com/maps/place/37.55165929611149+126.98767618666623)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[Myeongdong Street (명동길)](https://www.google.com/maps/place/37.562454344369584+126.98479771614075)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
