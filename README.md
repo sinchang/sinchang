@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Myeongdong Street (명동길)](https://www.google.com/maps/place/37.562454344369584+126.98479771614075)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[Cheongwadae (청와대)](https://www.google.com/maps/place/37.58624836823106+126.97474479675294)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
