@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Gwanghwamun (광화문)](https://www.google.com/maps/place/37.575734880619535+126.97687871124153)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[우마이도 (美味堂) (우마이도)](https://www.google.com/maps/place/37.543026865127636+127.07171471813746)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
