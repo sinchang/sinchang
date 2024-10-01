@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Cheongwadae (청와대)](https://www.google.com/maps/place/37.58624836823106+126.97474479675294)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[National Museum of Modern and Contemporary Art (국립현대미술관 서울관)](https://www.google.com/maps/place/37.57874930009489+126.98038816452026)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
