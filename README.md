@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[North Korean Demilitarized Zone (한반도 비무장지대 (DMZ))](https://www.google.com/maps/place/37.916414113870104+126.69865091278446)<br><span style="font-size:0.5em;">North Hwanghae, South Korea</span>
+[Unification Village](https://www.google.com/maps/place/37.90942645548359+126.73413620084673)<br><span style="font-size:0.5em;">Gyeonggi-do, South Korea</span>
 <!--END_SECTION:checkIn-section-->
