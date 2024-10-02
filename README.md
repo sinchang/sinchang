@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Unification Village](https://www.google.com/maps/place/37.90942645548359+126.73413620084673)<br><span style="font-size:0.5em;">Gyeonggi-do, South Korea</span>
+[Leonidas (레오니다스)](https://www.google.com/maps/place/37.56402493375381+126.98574499737667)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
