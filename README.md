@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Hongik Univ. Stn. (홍대입구역)](https://www.google.com/maps/place/37.55698539455821+126.92350718924182)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[North Korean Demilitarized Zone (한반도 비무장지대 (DMZ))](https://www.google.com/maps/place/37.916414113870104+126.69865091278446)<br><span style="font-size:0.5em;">North Hwanghae, South Korea</span>
 <!--END_SECTION:checkIn-section-->
