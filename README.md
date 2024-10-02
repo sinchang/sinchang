@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Leonidas (레오니다스)](https://www.google.com/maps/place/37.56402493375381+126.98574499737667)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[City Hall Stn. (시청역)](https://www.google.com/maps/place/37.564667376605904+126.97701930999756)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
