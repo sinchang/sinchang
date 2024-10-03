@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[City Hall Stn. (시청역)](https://www.google.com/maps/place/37.564667376605904+126.97701930999756)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[Gyeongbokgung Palace (경복궁)](https://www.google.com/maps/place/37.57688297343688+126.97719566310992)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
