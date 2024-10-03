@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Gyeongbokgung Palace (경복궁)](https://www.google.com/maps/place/37.57688297343688+126.97719566310992)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[Shinsegae department store main buliding (신세계백화점 본관)](https://www.google.com/maps/place/37.561023+126.981282)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
