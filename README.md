@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[The War Memorial of Korea (전쟁기념관)](https://www.google.com/maps/place/37.53558705811812+126.97721217416286)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[Seoul Station - AREX (Airport Railroad) (서울역 공항철도)](https://www.google.com/maps/place/37.553574821558456+126.96966898884901)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
