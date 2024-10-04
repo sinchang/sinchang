@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[원당감자탕](https://www.google.com/maps/place/37.517679036778105+126.90905526105833)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[5 Bagel And Coffee](https://www.google.com/maps/place/37.559822+126.980619)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
 <!--END_SECTION:checkIn-section-->
