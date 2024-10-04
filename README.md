@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Seoul Station - AREX (Airport Railroad) (서울역 공항철도)](https://www.google.com/maps/place/37.553574821558456+126.96966898884901)<br><span style="font-size:0.5em;">Seoul, South Korea</span>
+[CU](https://www.google.com/maps/place/37.45453+126.44245)<br><span style="font-size:0.5em;">Incheon, South Korea</span>
 <!--END_SECTION:checkIn-section-->
