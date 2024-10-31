@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[HEYTEA (喜茶)](https://www.google.com/maps/place/31.221337+121.355489)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[7FRESH (七鲜)](https://www.google.com/maps/place/31.221273+121.356945)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
