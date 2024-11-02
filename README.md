@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[北高峰](https://www.google.com/maps/place/30.247536643256446+120.09376195679546)<br><span style="font-size:0.5em;">Zhejiang Sheng, China</span>
+[Holiday Inn Express Hangzhou Westlake East (杭州西湖东智选假日酒店)](https://www.google.com/maps/place/30.247795+120.177647)<br><span style="font-size:0.5em;">Zhejiang Sheng, China</span>
 <!--END_SECTION:checkIn-section-->
