@@ -35,5 +35,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[半马苏河公园二期](https://www.google.com/maps/place/31.22637+121.3632)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Saizeriya (萨利亚)](https://www.google.com/maps/place/31.210761+121.366583)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
