@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[喜家德虾仁水饺](https://www.google.com/maps/place/31.182998+121.437221)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Chilis Grill & Bar](https://www.google.com/maps/place/31.158716+121.465806)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
