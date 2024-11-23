@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Fresh Hema Premier (盒马黑金店)](https://www.google.com/maps/place/31.218166+121.41133)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Juneyao Air V6 Lounge](https://www.google.com/maps/place/31.198871+121.326669)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
