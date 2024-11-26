@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[稷王商务酒店](https://www.google.com/maps/place/35.595294+110.98508)<br><span style="font-size:0.5em;">Shanxi Sheng, China</span>
+[中国农业银行](https://www.google.com/maps/place/35.600407+110.980063)<br><span style="font-size:0.5em;">Shanxi Sheng, China</span>
 <!--END_SECTION:checkIn-section-->
