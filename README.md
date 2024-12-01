@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[华东师范大学河东餐厅](https://www.google.com/maps/place/31.230843227614205+121.40361983612678)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[上海华东师范大学学术交流中心](https://www.google.com/maps/place/31.226356+121.406789)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
