@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Maki House](https://www.google.com/maps/place/31.221339+121.355813)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Xinjing Park (新泾公园)](https://www.google.com/maps/place/31.218894+121.357445)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
