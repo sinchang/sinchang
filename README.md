@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Art Park (大融城)](https://www.google.com/maps/place/31.219538106172458+121.3550019264221)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[UNIQLO (优衣库)](https://www.google.com/maps/place/31.216141398164073+121.38345479965211)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
