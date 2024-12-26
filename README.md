@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Terminal 1 (上海虹桥国际机场1号航站楼)](https://www.google.com/maps/place/31.19624682867557+121.34274959564208)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Xiamen Gaoqi International Airport (XMN) (厦门高崎国际机场)](https://www.google.com/maps/place/24.54346564982716+118.13360912337194)<br><span style="font-size:0.5em;">Fujian, China</span>
 <!--END_SECTION:checkIn-section-->
