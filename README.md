@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[NITORI (宜得利家具)](https://www.google.com/maps/place/31.25065+121.408111)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Terminal 1 (上海虹桥国际机场1号航站楼)](https://www.google.com/maps/place/31.19624682867557+121.34274959564208)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
