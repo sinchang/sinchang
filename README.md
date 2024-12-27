@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Pyrmont Bridge](https://www.google.com/maps/place/-33.8706006950306+151.20123725570386)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Gong Grocer](https://www.google.com/maps/place/-33.87675+151.20638)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
