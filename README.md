@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Shelly Beach](https://www.google.com/maps/place/-33.8002974270289+151.29772424697876)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Manly Wharf](https://www.google.com/maps/place/-33.8002082723309+151.2839913368225)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
