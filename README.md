@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Royal Botanic Garden](https://www.google.com/maps/place/-33.86414397991936+151.21599197387695)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Manly Beach](https://www.google.com/maps/place/-33.7932004225498+151.28755331039426)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
