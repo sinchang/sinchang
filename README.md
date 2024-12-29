@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Art Gallery of New South Wales](https://www.google.com/maps/place/-33.868821+151.217298)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Bondi To Coogee Beach Walk](https://www.google.com/maps/place/-33.91877462923206+151.2585835067492)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
