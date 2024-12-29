@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Bondi To Coogee Beach Walk](https://www.google.com/maps/place/-33.91877462923206+151.2585835067492)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Arncliffe Station](https://www.google.com/maps/place/-33.93655966649093+151.147198677063)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
