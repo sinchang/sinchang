@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Ted's Cameras](https://www.google.com/maps/place/-33.87395607413135+151.20783843316704)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Olympic Park Station](https://www.google.com/maps/place/-33.84650271654454+151.069575548172)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
