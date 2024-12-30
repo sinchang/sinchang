@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[University Oval No.1](https://www.google.com/maps/place/-33.88769443671993+151.18552405872634)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Ted's Cameras](https://www.google.com/maps/place/-33.87395607413135+151.20783843316704)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
