@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Olympic Park Station](https://www.google.com/maps/place/-33.84650271654454+151.069575548172)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Qudos Bank Arena](https://www.google.com/maps/place/-33.84461363805294+151.06254816055298)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
