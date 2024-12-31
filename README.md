@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Sal's Authentic New York Pizza - York St](https://www.google.com/maps/place/-33.866449+151.205967)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[T2 Domestic Terminal](https://www.google.com/maps/place/-33.93420541160835+151.17959431243725)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
