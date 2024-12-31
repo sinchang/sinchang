@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Qudos Bank Arena](https://www.google.com/maps/place/-33.84461363805294+151.06254816055298)<br><span style="font-size:0.5em;">NSW, Australia</span>
+[Taronga Zoo](https://www.google.com/maps/place/-33.84335236995361+151.24198728382845)<br><span style="font-size:0.5em;">NSW, Australia</span>
 <!--END_SECTION:checkIn-section-->
