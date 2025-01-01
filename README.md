@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Skybus](https://www.google.com/maps/place/-38.0264469056893+144.47342070550894)<br><span style="font-size:0.5em;">VIC, Australia</span>
+[ibis Melbourne](https://www.google.com/maps/place/-37.806956518952326+144.96136266181304)<br><span style="font-size:0.5em;">VIC, Australia</span>
 <!--END_SECTION:checkIn-section-->
