@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Yarra River](https://www.google.com/maps/place/-37.81968363170121+144.96511459350586)<br><span style="font-size:0.5em;">VIC, Australia</span>
+[Sandridge Bridge](https://www.google.com/maps/place/-37.82044356632634+144.96290175763934)<br><span style="font-size:0.5em;">VIC, Australia</span>
 <!--END_SECTION:checkIn-section-->
