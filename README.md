@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[George's Food Court](https://www.google.com/maps/place/-38.75619806896632+143.66923948084508)<br><span style="font-size:0.5em;">VIC, Australia</span>
+[Teddy's Lookout](https://www.google.com/maps/place/-38.55417634067127+143.97893143315065)<br><span style="font-size:0.5em;">VIC, Australia</span>
 <!--END_SECTION:checkIn-section-->
