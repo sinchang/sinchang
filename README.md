@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Shanghai Pudong International Airport (PVG) (上海浦东国际机场)](https://www.google.com/maps/place/31.147318502825748+121.8037462234497)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Airport Link Line Hongqiao Airport Terminal 2 Station (市域机场线 虹桥 2 号航站楼站)](https://www.google.com/maps/place/31.194606+121.324182)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
