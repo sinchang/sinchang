@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Airport Link Line Hongqiao Airport Terminal 2 Station (市域机场线 虹桥 2 号航站楼站)](https://www.google.com/maps/place/31.194606+121.324182)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Hongqiao Airport T2 Metro Station (虹桥2号航站楼地铁站)](https://www.google.com/maps/place/31.19621938405351+121.3217491933392)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
