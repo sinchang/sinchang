@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Hongqiao Airport T2 Metro Station (虹桥2号航站楼地铁站)](https://www.google.com/maps/place/31.19621938405351+121.3217491933392)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[McDonald's (麦当劳)](https://www.google.com/maps/place/31.221332+121.357298)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
