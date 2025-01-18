@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Rodon BBQ Bowl (炉丼·烧肉饭专门店)](https://www.google.com/maps/place/31.227036+121.355035)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Manner Coffee](https://www.google.com/maps/place/31.222480593711143+121.37483954429626)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
