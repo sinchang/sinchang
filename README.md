@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[半马苏河公园](https://www.google.com/maps/place/31.221389636657243+121.39045000076293)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Bank of China (中国银行)](https://www.google.com/maps/place/31.210321+121.361851)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
