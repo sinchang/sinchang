@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[ChaTraMue手标泰式茶](https://www.google.com/maps/place/31.218402+121.416293)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Yu Garden (豫园)](https://www.google.com/maps/place/31.228922449156435+121.48798249661922)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
