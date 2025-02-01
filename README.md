@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[FRIDAYEVE (周四晚)](https://www.google.com/maps/place/28.959747+118.87167)<br><span style="font-size:0.5em;">Zhejiang Sheng, China</span>
+[Mazhandi (马站底)](https://www.google.com/maps/place/28.957938+118.872057)<br><span style="font-size:0.5em;">Zhejiang Sheng, China</span>
 <!--END_SECTION:checkIn-section-->
