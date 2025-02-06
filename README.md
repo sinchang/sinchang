@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Shanghai Hongqiao Railway Station (上海虹桥站)](https://www.google.com/maps/place/31.19568867216063+121.31647240990671)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[云阿蛮云南生烫牛肉米线](https://www.google.com/maps/place/31.221902+121.356996)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
