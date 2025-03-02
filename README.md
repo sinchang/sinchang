@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[绥德公园](https://www.google.com/maps/place/31.269848+121.35549)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Lianhua (联华)](https://www.google.com/maps/place/31.209916+121.348287)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
