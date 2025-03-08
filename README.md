@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Jing'an Park (静安公园)](https://www.google.com/maps/place/31.224059542302243+121.44207748505133)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Huashan Road Overbridge (华山路过街天桥)](https://www.google.com/maps/place/31.222912320031305+121.4408722150734)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
