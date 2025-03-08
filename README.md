@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[GA PARK](https://www.google.com/maps/place/31.224908+121.35598)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Jing'an Park (静安公园)](https://www.google.com/maps/place/31.224059542302243+121.44207748505133)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
