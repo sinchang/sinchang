@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Shake Shack](https://www.google.com/maps/place/31.2218+121.356058)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[様sama寿司×吉利串烧](https://www.google.com/maps/place/31.222154+121.35705)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
