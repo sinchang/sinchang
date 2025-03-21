@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Shanghai Indoor Stadium (上海体育馆)](https://www.google.com/maps/place/31.183287414518908+121.43368721008301)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Shanghai Indoor Stadium Metro Station (上海体育馆地铁站)](https://www.google.com/maps/place/31.184017712641722+121.43170269898292)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
