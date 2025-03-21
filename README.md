@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[様sama寿司](https://www.google.com/maps/place/31.219177+121.354592)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Shanghai Indoor Stadium (上海体育馆)](https://www.google.com/maps/place/31.183287414518908+121.43368721008301)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
