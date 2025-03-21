@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Tube Station Pizza (站点比萨)](https://www.google.com/maps/place/31.217502+121.35956)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[様sama寿司](https://www.google.com/maps/place/31.219177+121.354592)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
