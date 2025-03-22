@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[十里锒铛](https://www.google.com/maps/place/30.220308+120.101746)<br><span style="font-size:0.5em;">Zhejiang Sheng, China</span>
+[Bamboo-lined Path (云栖竹径)](https://www.google.com/maps/place/30.19172997192048+120.0829267497812)<br><span style="font-size:0.5em;">Zhejiang Sheng, China</span>
 <!--END_SECTION:checkIn-section-->
