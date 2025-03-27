@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Oriental Sports Center (东方体育中心)](https://www.google.com/maps/place/31.158973093699483+121.4749050931468)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Oriental Sports Center Metro Station (东方体育中心地铁站)](https://www.google.com/maps/place/31.155455179595783+121.47583308390496)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
