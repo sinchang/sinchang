@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[玛嘉烈](https://www.google.com/maps/place/31.221087+121.357856)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[Printemps (巴黎春天 天山路店)](https://www.google.com/maps/place/31.212999+121.397775)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
