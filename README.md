@@ -6,7 +6,7 @@ I was born and raised in Cangnan, Wenzhou.
 
 Now living in Shanghai.
 
-Check out my resume: [English Version](https://resume.sinchang.me/resume.pdf)
+<!--- Check out my resume: [English Version](https://resume.sinchang.me/resume.pdf) --> 
 
 ## Donate ❤️
 
