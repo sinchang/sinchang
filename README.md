@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Century Cinema XianXia (世纪仙霞影城)](https://www.google.com/maps/place/31.210847787289882+121.36608189861654)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[SOLARE](https://www.google.com/maps/place/31.21259443293671+121.38025774612373)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
