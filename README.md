@@ -34,5 +34,5 @@ If you like my open-source project, please consider donating to me via [PayPal](
 **Last Seen At**
 
 <!--START_SECTION:checkIn-section-->
-[Golden Street (黄金城道步行街)](https://www.google.com/maps/place/31.19734363660096+121.39727318120242)<br><span style="font-size:0.5em;">Shanghai, China</span>
+[多财食装屋](https://www.google.com/maps/place/31.221811+121.356853)<br><span style="font-size:0.5em;">Shanghai, China</span>
 <!--END_SECTION:checkIn-section-->
